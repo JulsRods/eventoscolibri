@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5037567728",
+    "project_id": "eventoscolibri12",
+    "storage_bucket": "eventoscolibri12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5037567728:android:de1b5dca7afc1b9597dc35",
+        "android_client_info": {
+          "package_name": "com.example.eventoscolibri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWYgr3bFjFw8o5dXJfcwm4uEqQls3mLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
