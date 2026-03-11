@@ -16,4 +16,4 @@ Cumple con funciones como:
 - gestión de calendarios
 - gestión de cotizaciones
 
-  El Manual incluye como funciona e imagenes de la app
+  El manual.docx incluye como funciona e imagenes de la app
