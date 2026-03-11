@@ -1,16 +1,19 @@
 # eventoscolibri
 
-A new Flutter project.
+Proyecto realizado mediante vinculación en flutter con eventos colibri de codigo abierto
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+El cuál es una app de gestión de eventos y cotización.
+Cumple con funciones como:
 
-A few resources to get you started if this is your first Flutter project:
+-inicio y registro de sesión
+-cotización de eventos por salón y demás
+-catalogo de salones
+-comentarios para usuario
+-perfil de admnistrador y trabajador
+-creación de salones
+- gestión de calendarios
+- gestión de cotizaciones
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  El Manual incluye como funciona e imagenes de la app
